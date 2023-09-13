@@ -10,14 +10,14 @@ A console base C++ text editor developed in OOP's paradime.
 - Apending two files
 - Free cursore movement (to nevigate to any line of the file)
 - Keep track of Real time: 
- - Averge Word Length
- - Special Charters
- - Word Count
- - small words
- - large words
- - num of sentences
- - number of paragrphs
- - Many **Short Keys** avliable, Ctrl+L to open Short Keys menu
+    - Averge Word Length
+    - Special Charters
+    - Word Count
+    - small words
+    - large words
+    - num of sentences
+    - number of paragrphs
+    - Many **Short Keys** avliable, Ctrl+L to open Short Keys menu
 
 ### Short Keys:
 -  'Esc' to Exit
